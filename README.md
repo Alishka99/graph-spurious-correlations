@@ -14,7 +14,7 @@ Key findings:
 
 - **`knowledge-graph-creation.ipynb`**: Code for generating knowledge graph representations of sentences using the Mistral-7B model via the Ollama framework.
 - **`knowledge-graph-training.ipynb`**: Code for fine-tuning the DistilBERT model using the augmented dataset with knowledge graph representations.
-- **`original-dataset-training.ipynb`**: Code for replicating the Maryland experiment using the original and biased datasets without graph augmentation.
+- **`original-dataset-training.ipynb`**: Code for replicating experiment using the original and biased datasets without graph augmentation.
 - **`Spurious_Correlations.pdf`**: The detailed paper documenting the methodology, experiments, results, and findings.
 
 ## Datasets
